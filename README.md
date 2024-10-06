@@ -4,12 +4,11 @@
 ## Table of Contents
 - [About the Project](#about-the-project)
 
-## About the Project
+## About the VAPOR-API
 
 Brief description of your Vapor project, its purpose, and what it does.
 
-For example:
-"This project is a REST API built using [Vapor](https://vapor.codes), a web framework for Swift, and uses PostgreSQL as its database. The API allows users to perform CRUD operations on a collection of resources, such as tasks, users, or any other entities."
+This project is a REST API built using [Vapor](https://vapor.codes), a web framework for Swift, and uses PostgreSQL as its database. The API allows users to perform CRUD operations on a collection of resources, such as tasks, users, or any other entities.
 
 ## Features
 
@@ -21,4 +20,4 @@ For example:
 
   ## Installation
 
-### 1. Clone the repository
+### 0. Clone the repository
