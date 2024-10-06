@@ -1,5 +1,5 @@
 # vapor-api
-[![Swift](https://img.shields.io/badge/Swift-5.8-orange)](https://swift.org) [![Vapor](https://img.shields.io/badge/Vapor-4.0-blue)](https://vapor.codes)
+[![Swift](https://img.shields.io/badge/Swift-5.8-orange)](https://swift.org) [![Vapor](https://img.shields.io/badge/Vapor-4.8-blue)](https://vapor.codes)
 
 ## Table of Contents
 - [About the Project](#about-the-project)
